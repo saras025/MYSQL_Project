@@ -24,5 +24,12 @@ Attendance Patterns: Discovered that January is the peak month for leaves, while
 
 🛠️ Tech Stack
 Database: MySQL
+
 Tools: MySQL Workbench
+
 Documentation: MS PowerPoint, Excel
+
+👥 Contributors
+Saraswathi
+
+Pragna Nerella
