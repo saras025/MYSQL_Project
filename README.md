@@ -1,4 +1,4 @@
-# MYSQL_Project
+# MYSQL_Project on Employee Management
 Employee Management System (MySQL)
 A comprehensive relational database project designed to streamline HR operations, automate payroll processing, and provide actionable organizational insights.
 
